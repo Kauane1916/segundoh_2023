@@ -1,0 +1,22 @@
+:root{
+   --cor_de_fundo_um:#6F99A65;
+   --cor_letra_fundo_claro:#004459;
+   --cor-de_dundo_dois:#006381;
+   --cor_letra_fundo_claro:#00BAF2;
+   
+}
+ *{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    width: 100%;
+    height: 100%;
+    background-color: var(--cor_de_fundo_um);
+}
+.depressao.pg{
+    height: 90px;
+    width: 8%;
+}
+
+
